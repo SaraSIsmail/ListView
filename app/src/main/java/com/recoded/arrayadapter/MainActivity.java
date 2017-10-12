@@ -58,8 +58,6 @@ class  ContactAdapter  extends ArrayAdapter<Contact>{
         this.context=context;
         this.LayoutId=LayoutId;
         this.contacts=contacts;
-        
-
     }
     @NonNull
     @Override
